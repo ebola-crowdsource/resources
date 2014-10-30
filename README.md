@@ -29,6 +29,14 @@ Last Updated: October 2nd, 2014
 
 [The Committee on Laboratory Practices of ASM's Public and Scientific Affairs Board (PSAB) has prepared a document to assist laboratory personnel](http://www.asm.org/images/PSAB/ASM-HFVEbolaLaboratoryInterimGuidance.pdf)
 
+### U.S. Government Resources (Updated October 2014)
+
+For more information from the U.S. government, see the following websites:
+
+[Centers For Disease Control - Monitoring Symptoms & Controlling Movement](http://www.cdc.gov/media/releases/2014/fs1027-monitoring-symptoms-controlling-movement.html)
+[We will stop Ebola in West Africa](http://www.whitehouse.gov/blog/2014/10/28/we-will-stop-ebola-west-africa)
+[Whitehouse Blog: Weekly Address, Focused Fight Against Ebola](http://www.whitehouse.gov/blog/2014/10/25/weekly-address-focused-fight-against-ebola)
+
 ### Multimedia Resources:
 
 [CDC Press Briefing Transcript and Audio Recording: Update on Ebola outbreak in West Africa, Sept. 2, 2014](http://www.cdc.gov/media/releases/2014/t0902-ebola-outbreak.html)
