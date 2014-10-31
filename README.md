@@ -3,6 +3,8 @@ Last Updated: October 2nd, 2014
 
 ### General Outbreak Information:
 
+[Ebola Grand Challenge](http://www.ebolagrandchallenge.net)
+
 [CDC Outbreak News](http://www.cdc.gov/vhf/ebola/outbreaks/guinea/whats-new.html)
 
 [World Health Organization Disease Outbreak News](http://www.afro.who.int/en/clusters-a-programmes/dpc/epidemic-a-pandemic-alert-and-response/outbreak-news.html)
